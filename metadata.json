@@ -1,0 +1,6 @@
+{
+  "name": "Signed App",
+  "description": "A modern Android application configured for signed release builds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
